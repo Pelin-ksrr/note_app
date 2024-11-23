@@ -1,0 +1,50 @@
+{
+  "expo": {
+    "name": "MyNotes",
+    "slug": "my_notes",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/note.png",
+    "scheme": "myapp",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/note.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.pelin31.my_notes"
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/images/note.png"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/images/note.png",
+          "imageWidth": 200,
+          "resizeMode": "contain",
+          "backgroundColor": "#ffffff"
+        }
+      ]
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "f48a868f-2b50-4c63-8824-1441668bbaf0"
+      }
+    }
+  }
+}
