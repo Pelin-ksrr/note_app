@@ -14,13 +14,13 @@ Note App is a mobile application built with **React Native**. The app allows use
 
 ## **Screenshots**
 ### 1. Notes List
-<img src="assets/images/ss_1.png" alt="Notes List" width="300">
+<img src="assets/images/ss_1.jpeg" alt="Notes List" width="300">
 
 ### 2. Add a Note
-<img src="assets/images/ss_2.png" alt="Add Note Screen" width="300">
+<img src="assets/images/ss_2.jpeg" alt="Add Note Screen" width="300">
 
 ### 3. Delete a Note
-<img src="assets/images/ss_3.png" alt="Delete Note Screen" width="300">
+<img src="assets/images/ss_3.jpeg" alt="Delete Note Screen" width="300">
 
 ---
 
